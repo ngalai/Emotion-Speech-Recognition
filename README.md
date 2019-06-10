@@ -5,6 +5,7 @@ In the project, I will create  models for recognition emotion in speech. I selec
 - KNN
 - SVM 
 - MLP 
+
 to recognition angry and neutral emotion in speech  
 I only run base on data with 500 files speech (2000-5000ms). Ressult of each model is:
 * KNN (~ 73,4 % )
